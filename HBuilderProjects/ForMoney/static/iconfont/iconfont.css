@@ -1,0 +1,25 @@
+@font-face {
+	font-family: "iconfont";
+	src: url('~@/static/iconfont/iconfont.ttf'); 
+ }
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-qicheqianlian-:before {
+  content: "\e618";
+}
+
+.icon-gouwuche:before {
+  content: "\e606";
+}
+
+.icon-xihongshiSVG:before {
+  content: "\e629";
+}
+
